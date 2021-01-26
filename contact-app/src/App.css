@@ -16,7 +16,3 @@ html *,
 html {
 	overflow: auto;
 }
-
-body {
-	min-width: 1024px;
-}
